@@ -1,4 +1,4 @@
-# Vishesh Mart 
+# Vishesh Dukaan
 
 <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/microsoft/209/shopping-trolley_1f6d2.png" width="50" height="50" />
 
@@ -68,7 +68,7 @@ But shopping with friends too can be a nightmare! Especially if your friends ins
 <p>
 <div>
 
-Vishesh Mart.com is a site where everyone gets everything they need. ApniDukaan.com allows users to buy items of their choice from a wide range of products such as clothes, electronic gadgets, toys, electric appliances, cosmetics, household products, stationery, books, and many more. 
+VisheshDukaan.com is a site where everyone gets everything they need. VisheshDukaan.com allows users to buy items of their choice from a wide range of products such as clothes, electronic gadgets, toys, electric appliances, cosmetics, household products, stationery, books, and many more. 
 </div>
 </p>
 
