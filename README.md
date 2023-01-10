@@ -1,6 +1,6 @@
 # Welcome to Vishesh Dukaan
 
-# [Demo]( https://jhavishesh.github.io/Vishesh-Dukaan/home.html)
+[Shop at Vishesh Dukaan]( https://jhavishesh.github.io/Vishesh-Dukaan/home.html)
 
 <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/microsoft/209/shopping-trolley_1f6d2.png" width="50" height="50" />
 
@@ -16,61 +16,147 @@ But shopping with friends too can be a nightmare! Especially if your friends ins
 
 ## A sneak peek into what we have here🙈 :
 
-
-### Home Page 
-
-<p>
-<img width=80% src="https://user-images.githubusercontent.com/98693953/196968571-95b302c6-67ca-4df4-bd9c-4bafe5e281c4.png">
-</p>
-
-### Category-Page
-
-<p>
-<img width=80% src="https://user-images.githubusercontent.com/98693953/196969081-473f6d49-b292-48bf-85e0-fd631a39a2bf.png">
-</p>
-<br />
-<p>
-<img width=80% src="https://github.com/anupammaurya6767/Apni-Dukaan/blob/master/Images/s3.png">
-</p>
+### Homepage
 
 
-### Product Page
+ 
 
-<p>
-<img width=80% src="https://user-images.githubusercontent.com/98693953/196969851-e19cacd5-fd48-44df-aa42-681b07936b7c.png">
-</p>
 
-### Sign-up Page
 
-<p>
-<img width=80% src="https://github.com/anupammaurya6767/Apni-Dukaan/blob/master/Images/s5.png">
-</p>
+![image](https://user-images.githubusercontent.com/61939693/211589357-5ffe7d7e-1ca7-417e-9c75-a6aa1af876ee.png)
 
-### Offers Page
-<p>
-<img width=80% src="https://i.postimg.cc/C5m0GHc1/Offers-Page.jpg">
-</p>
 
-### My Cart Page
-<p>
-<img width=80% src="https://user-images.githubusercontent.com/98693953/196970051-776c3d20-65cb-4891-a304-3a9af05b628b.png">
-</p>
 
-### Contact us page
-<p>
-<img width=80% src="https://i.postimg.cc/tT8SL175/contactus.jpg">
-</p>
 
-### FAQs Page
-<p>
-<img width=80% src="https://user-images.githubusercontent.com/98693953/196970369-3a478dcf-9fc6-4829-812d-bca571b632a9.png">
-</p>
 
-## About
-<p>
-<div>
 
-VisheshDukaan.com is a site where everyone gets everything they need. VisheshDukaan.com allows users to buy items of their choice from a wide range of products such as clothes, electronic gadgets, toys, electric appliances, cosmetics, household products, stationery, books, and many more. 
-</div>
-</p>
+
+### Login Page
+
+
+ 
+
+
+
+
+
+![image](https://user-images.githubusercontent.com/61939693/211589322-b8736370-751b-4d71-8214-8dc7c730be7f.png)
+
+
+
+
+
+
+
+
+
+### Registration Page
+
+ 
+
+![image](https://user-images.githubusercontent.com/61939693/211589288-ab7a8108-d203-42fb-846d-c49657813d55.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Category -01
+ 
+
+![image](https://user-images.githubusercontent.com/61939693/211589240-8d88af8d-0286-4e44-a8c8-c17a737c332f.png)
+
+
+
+
+
+
+
+
+
+
+
+### Category -02
+
+ 
+
+![image](https://user-images.githubusercontent.com/61939693/211589640-7e270ba2-5a0d-4073-ab07-8db352a6112e.png)
+
+
+
+
+
+
+
+
+
+
+
+### Category -03
+ 
+
+
+
+![image](https://user-images.githubusercontent.com/61939693/211589174-b3e6f893-844f-4dc3-ae0d-c5de82546761.png)
+
+
+
+
+
+
+
+
+
+
+
+
+### Cart Page
+
+
+ 
+
+
+![image](https://user-images.githubusercontent.com/61939693/211589136-4a99be16-d6e2-4595-9382-5e2af0236bc4.png)
+
+
+
+
+
+
+
+
+
+
+
+### Payment Page
+
+
+ ![image](https://user-images.githubusercontent.com/61939693/211589102-cb8ae6a1-bc7e-4150-9542-9db099471682.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Contact Us Page
+
+ 
+![image](https://user-images.githubusercontent.com/61939693/211588989-d5939a3f-c913-48ef-9f29-daed524a857b.png)
+
+
 
